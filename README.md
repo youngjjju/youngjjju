@@ -23,6 +23,16 @@ Electronic and Electrical Engineering
 
 ## 🌐 Web Development Projects
 
+🛠️ **Tech Stack:**
+  
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)](https://tailwindcss.com/)
+
+✨ **What I did:**
+- Implemented responsive and clean **UI designs**
+- Developed and connected **API forms**
+
 ### 🎸 Website for SKKU University Band Club *Amang*
 - 🔗 [GitHub Repository](https://github.com/skku-amang)
 - 🖥️ **Role:** Frontend Developer
