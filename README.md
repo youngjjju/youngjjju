@@ -10,7 +10,7 @@ Electronic and Electrical Engineering
 
 ## ⚙️ Embedded Systems Projects
 
-*I am currently focusing on embedded systems and IoT development. Below are my embedded projects (more coming soon!)*
+*I am currently focusing on embedded systems and IoT development. More projects will be added soon!*
 
 ### 🚗 [Project Title Placeholder]
 *(Add your embedded projects here as you complete them)*
@@ -24,14 +24,18 @@ Electronic and Electrical Engineering
 ## 🌐 Web Development Projects
 
 🛠️ **Tech Stack:**
-  
+
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)](https://tailwindcss.com/)
 
 ✨ **What I did:**
-- Implemented responsive and clean **UI designs**
-- Developed and connected **API forms**
+- Built responsive and consistent **UI designs**
+- Developed and connected **form APIs**, using React Hook Form extensively
+- Focused on maintainable code and clean component structure
+
+---
 
 ### 🎸 Website for SKKU University Band Club *Amang*
 - 🔗 [GitHub Repository](https://github.com/skku-amang)
@@ -51,4 +55,3 @@ Electronic and Electrical Engineering
 
 [![Gmail Badge](https://img.shields.io/badge/-h1996sea@g.skku.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:h1996sea@g.skku.edu)](mailto:h1996sea@g.skku.edu)
 [![Instagram Badge](https://img.shields.io/badge/-@0ju0ju0ju0-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/0ju0ju0ju0/)](https://www.instagram.com/0ju0ju0ju0/)
-
