@@ -10,14 +10,6 @@ Electronic and Electrical Engineering
 
 ## ⚙️ Embedded Systems Projects
 
-*I am currently focusing on embedded systems and IoT development. More projects will be added soon!*
-
-### 🚗 [Project Title Placeholder]
-*(Add your embedded projects here as you complete them)*
-
-- 🔗 **Repository:** *(link)*
-- 🛠️ **Role:** Embedded Software Developer
-- 📝 **Description:** *(Brief description of your project)*
 
 ---
 
@@ -33,7 +25,6 @@ Electronic and Electrical Engineering
 ✨ **What I did:**
 - Built responsive and consistent **UI designs**
 - Developed and connected **form APIs**, using React Hook Form extensively
-- Focused on maintainable code and clean component structure
 
 ---
 
