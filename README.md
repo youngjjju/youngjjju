@@ -1,2 +1,2 @@
-## Hello, THis is YOUNGJU KIM from South Korea 
+## Hello, This is YOUNGJU KIM 🇰🇷
 
