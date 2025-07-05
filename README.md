@@ -10,7 +10,7 @@ Electronic and Electrical Engineering
 
 ## ⚙️ Embedded Systems Projects
 
-
+- I am planning to work on embedded systems projects in C and related technologies in the near future.
 ---
 
 ## 🌐 Web Development Projects
