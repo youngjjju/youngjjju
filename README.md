@@ -38,8 +38,7 @@ Electronic and Electrical Engineering
 ---
 
 ## 📫 Contact
-Feel free to connect with me!
 
-[![Gmail Badge](https://img.shields.io/badge/-your.email@example.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:your.email@example.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com)
+[![Gmail Badge](https://img.shields.io/badge/-h1996sea@g.skku.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:h1996sea@g.skku.edu)](mailto:h1996sea@g.skku.edu)
+[![Instagram Badge](https://img.shields.io/badge/-@0ju0ju0ju0-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/0ju0ju0ju0/)](https://www.instagram.com/0ju0ju0ju0/)
 
