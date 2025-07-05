@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Youngju Kim**
+# 🙂 Hello, I'm **Youngju Kim**
 
 🎓 **Status:**  
 Bachelor's student (3rd year) at **Sungkyunkwan University**
