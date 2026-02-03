@@ -5,7 +5,7 @@ Electronic and Electrical Engineering
 Sungkyunkwan University (SKKU)
 
 > Embedded Systems · Automotive Software · Low-level Systems  
-> Interested in zonal architectures and vehicle network systems
+> Interested in vehicle network systems
 
 ---
 
