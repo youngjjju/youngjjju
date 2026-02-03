@@ -1,13 +1,17 @@
 # 🙂 Youngju Kim
 
-🎓 Bachelor’s student (4th year)  
-Electronic and Electrical Engineering, Sungkyunkwan University
+🎓 **Bachelor’s Student (4th year)**  
+Electronic and Electrical Engineering  
+Sungkyunkwan University (SKKU)
+
+> Embedded Systems · Automotive Software · Low-level Systems  
+> Interested in zonal architectures and vehicle network systems
 
 ---
 
 ## ⚙️ Embedded Systems
 
-**Tech Stack**  
+### 🧰 Tech Stack
 ![C](https://img.shields.io/badge/-C-555555?logo=c&logoColor=white&style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-00979D?style=flat-square)
@@ -15,33 +19,55 @@ Electronic and Electrical Engineering, Sungkyunkwan University
 ![Ethernet](https://img.shields.io/badge/-Ethernet-0078D4?style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 
-### 🚗 Zonal Vehicle Network System  
-Zonal-architecture–based in-vehicle network project
+---
 
-🔗 https://github.com/youngjjju/zonal-vehicle-network  
+### 🚗 Zonal Vehicle Network System
+**Zonal-architecture–based in-vehicle network project**
 
-Embedded system project implementing a zonal vehicle network on a ride-on electric car.  
-RA6M5, Arduino, and Raspberry Pi 5 were used with CAN and Ethernet-based communication.
+🔗 **GitHub**  
+https://github.com/youngjjju/zonal-vehicle-network  
+
+An embedded systems project implementing a **zonal vehicle network** on a ride-on electric car.
+
+- **MCUs / Boards**: Renesas RA6M5, Arduino, Raspberry Pi 5  
+- **Communication**: CAN, Ethernet  
+- **OS / Environment**: FreeRTOS, Embedded Linux  
+- **Focus**:
+  - Zone ECU concept
+  - Distributed sensor/actuator control
+  - Vehicle network design and message flow
 
 ---
 
 ## 🌐 Web Development
 
-**Tech Stack**  
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)](https://tailwindcss.com/)
+### 🧰 Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
 
-Focused on building clean, consistent UIs and integrating form-based APIs using React Hook Form.
+Focused on **clean UI architecture**, **consistent design systems**, and  
+form-based API integration using **React Hook Form**.
+
+---
 
 ### 🎸 SKKU University Band Club Website (*Amang*)
 🔗 https://github.com/skku-amang  
-Frontend Developer · First university project
+**Frontend Developer** · First university web project
 
-### 🤝 SKKU Convergence Institute Website  
+---
+
+### 🤝 SKKU Convergence Institute Website
 🔗 https://github.com/urp3-team-matching/web  
-Frontend Developer · Team-matching platform for institute programs
+**Frontend Developer** · Team-matching platform for institute programs
+
+---
+
+## 🧠 Algorithm Practice
+
+📊 **solved.ac Profile**  
+🔗 https://solved.ac/profile/2000dudwn  
 
 ---
 
