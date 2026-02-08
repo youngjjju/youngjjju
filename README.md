@@ -32,6 +32,9 @@ An embedded systems project implementing a **zonal vehicle network** on a ride-o
 - **MCUs / Boards**: Renesas RA6M5, Arduino, Raspberry Pi 5  
 - **Communication**: CAN, Ethernet  
 - **OS / Environment**: FreeRTOS, Embedded Linux  
+- **Development Environment**:
+  - Renesas **e² studio** (Eclipse-based IDE)
+  - **Arduino IDE**
 - **Focus**:
   - Zone ECU concept
   - Distributed sensor/actuator control
